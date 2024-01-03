@@ -1,2 +1,2 @@
-# bank-management-system
-I am developing a Bank Management System using Visual Studio Code and Core Java (Swing & AWT), with MySQL (Workbench) as the database.
+# bank-management-system:
+"Proficiently designed and implemented a robust Bank Management System using Visual Studio Code and Core Java, incorporating Swing and AWT for an intuitive graphical interface. Employed MySQL (Workbench) as the backend database, ensuring efficient and secure data management. Successfully developed and integrated features for seamless customer interactions, transaction processing, and account management. This project showcases my expertise in full-stack development, UI/UX design, and database integration, demonstrating a keen ability to deliver scalable and user-friendly software solutions."
